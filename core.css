@@ -1,9 +1,9 @@
 :root {
     --backgroundDark: rgb(24, 28, 37);
     --backgroundDarker: rgb(20, 23, 31);
-    --primary: #008ae6;
+    --primary: #3700b3;
     --primaryGradient1: var(--primary);
-    --primaryGradient2: #00e68a;
+    --primaryGradient2: #100f0f;
     --DangerColor: #dc3545;
     --WarningColor: #ffc107;
     --SuccesColor: #28a745;
@@ -531,11 +531,11 @@
 }
 
 #friends .friends-table .friends-row+.friends-row,.rowWrapper-2fB6P0+.rowWrapper-2fB6P0 .row-ZLfFhY {
-    border-top-color: rgba(0, 0, 0, 0.15) !important
+    border-top-color: rgba(12, 12, 12) !important
 }
 
 #friends .friends-table .friends-table-header,.header-39GIC8 {
-    border-bottom-color: rgba(0,0,0,.15)!important
+    border-bottom-color: rgba(12, 12, 12) !important
 }
 
 .card-1KzkE6,.card-7JP0BX,.news-2GDtLJ {
@@ -556,7 +556,7 @@
 }
 
 #friends .friends-table .friends-row:hover {
-    background-color: rgba(0,0,0,.25)!important
+    background-color: rgba(12, 12, 12)!important
 }
 
 .spinner-wandering-cubes .spinner-item,.wanderingCubesItem-WPXqao {
@@ -955,7 +955,7 @@ svg[name=Nova_Discord] * {
 }
 
 #friends .friends-table .friends-row .friends-column-actions .friends-action {
-    background-color: rgba(0,0,0,.45)!important
+    background-color: rgba(12, 12, 12)!important
 }
 
 .checkbox .checkbox-inner input[type=checkbox]:checked+span {
@@ -1111,7 +1111,7 @@ svg[name=Nova_Discord] * {
 }
 
 .messagesWrapper-3lZDfY .scroller-wrap.polyfill .scrollbar .track {
-    background-color: rgba(0,0,0,.15)!important
+    background-color: rgba(0, 0, 0, 0.15) !important
 }
 
 .messagesWrapper-3lZDfY .scroller-wrap.polyfill .scrollbar .thumb::after {
@@ -1383,8 +1383,8 @@ svg[name=Nova_Discord] * {
 
 .bda-slist li {
     max-height: 300px;
-    background-color: rgba(0,0,0,.15)!important;
-    border-color: rgba(0,0,0,.15)!important
+    background-color: rgba(12,12,12)!important;
+    border-color: rgba(12,12,12)!important
 }
 
 #bd-settings-sidebar .ui-tab-bar-item.selected,#bd-settings-sidebar .ui-tab-bar-item:hover,#bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch,.side-8zPYf6 .itemDefault-3Jdr52:hover,.side-8zPYf6 .itemHover-EnbcjT:hover,.side-8zPYf6 .itemSelected-1qLhcL {
@@ -2071,7 +2071,7 @@ svg[name=Nitro] g path {
 .wrapper-1BJsBx[aria-label=Home] {
     transition: all .3s ease;
     background-image: linear-gradient(to left,var(--primaryGradient1),var(--primaryGradient2));
-    -webkit-mask-image: url(https://i.imgur.com/3NoUedR.png);
+    -webkit-mask-image: url(https://i.imgur.com/v86GQpc.png);
     -webkit-mask-position: center;
     -webkit-mask-repeat: no-repeat;
     -webkit-mask-size: contain
