@@ -249,11 +249,16 @@
     background-color: var(--primaryGradient2)
 }
 
+/*Invite People Section*/
+.colorBrand-ROmMP1 {
+    color: white;
+}
+
 .button-F9qN4n.focused-3ZzkKr,
 .button-F9qN4n:hover,
 .colorDefault-2K3EoJ.focused-3afm-j,
 .colorDefault-2K3EoJ:active:not(.hideInteraction-1iH010) {
-    background-color: var(--primaryGradient2)
+    background-color: rgba(37, 37, 37, 0.582)
 }
 
 .theme-dark .footer-1FPmkC,
@@ -787,6 +792,23 @@ div[data-contents="true"] {
 
 .circleIconButton-jET_ig:hover {
     border-color: var(--primary)!important
+}
+
+.circleIconButton-1QV--U {
+    background-color: #040404e8;   
+}
+
+.circleIconButton-1QV--U.selected-1JjBPm {
+    background-color: #040404e8;
+}
+
+.item-2hkk8m {
+    position: absolute;
+    display: block;
+    width: 8px;
+    border-radius: 0 4px 4px 0;
+    margin-left: -4px;
+    background-color: rgba(39, 0, 88, 0.774);
 }
 
 .pageWrapper-1PgVDX {
